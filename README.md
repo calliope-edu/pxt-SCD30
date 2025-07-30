@@ -134,7 +134,7 @@ Use the Neopixel extension in addition to SCD30 and map the CO₂ value to LED c
 
 ## Supported target
 
-* pxt/calliopemini
+* PXT/calliopemini
 
 
 
